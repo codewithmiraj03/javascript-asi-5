@@ -1,0 +1,26 @@
+.container {
+    height: 80vh;
+    width: 30%;
+    background-color: rgba(128, 128, 128, 0.301);
+    text-align: center;
+    margin: auto;
+    border: 1px solid rgba(128, 128, 128, 0.301);
+}
+
+.btn {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 80px;
+    text-align: center;
+    gap: 5px;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: gray;
+    margin-top: 20px;
+}
